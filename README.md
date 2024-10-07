@@ -21,7 +21,8 @@ Imagine a scenario where:
 
 ## 🏗️ Architecture Diagram
 
-![img.png](imgs/architecture.png)
+![Gem 42bcwe42bcwe42bc](https://github.com/user-attachments/assets/106719a0-8cec-4438-b99b-41cfbb2b9738)
+
 
 ## 🚀 Setup Instructions
 
